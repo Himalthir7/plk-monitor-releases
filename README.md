@@ -2,9 +2,9 @@
 
 **Pobierz:** [PLK-Monitor-Setup.exe](https://github.com/Himalthir7/plk-monitor-releases/raw/main/PLK-Monitor-Setup.exe)
 
-Wersja: **1.0.6** · Windows 10/11 (64-bit) · instalacja bez uprawnień administratora.
+Wersja: **1.0.8** · Windows 10/11 (64-bit) · instalacja bez uprawnień administratora.
 
-SHA-256: `c123b95c0b6a7be95ff6a6d7f58f8fe0aae8d7437c0e8a6e7581a4380a8665f0`
+SHA-256: `c163aec3488aaea5038a39fa28f44a87f6d90b3663a94e0181e725c2e8076125`
 
 ## Instalacja (2 minuty)
 
